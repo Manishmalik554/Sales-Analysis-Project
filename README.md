@@ -8,3 +8,4 @@ questions aimed at understanding sales trends, product performance, and optimal 
 3. Customer Segmentation and Behavioural Analysis <br>
 4. Accessing Product Performance by Region. <br>
 5. Predictive Modeling for Future Sales Forecasting. <br>
+
